@@ -16,8 +16,10 @@ You can access the live website here 👉 [Nike](https://ranjan-nike.netlify.app
 
 ### Mobile View
 
-![Mobile Screenshot without](image/mobile_ss1.jpg)
-![Mobile Screenshot with menu](image/mobile_ss2.jpg)
+<!-- ![Mobile Screenshot without menu](image/mobile_ss1.jpg) -->
+<!-- ![Mobile Screenshot with menu](image/mobile_ss2.jpg) -->
+<img src="image/mobile_ss1.jpg" alt="Mobile Screenshot without menu" width="200"/>
+<img src="image/mobile_ss2.jpg" alt="Mobile Screenshot with menu" width="200"/>
 
 ## Tech Stack
 
