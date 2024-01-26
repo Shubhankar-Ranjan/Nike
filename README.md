@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a React-based web application that provides a comprehensive and interactive shopping experience. The application is structured into several sections, each serving a unique purpose. Each section is carefully styled using Tailwind CSS, a utility-first CSS framework that allows for highly customizable designs. The application is responsive, ensuring a great user experience on both desktop and mobile devices.
+This project is a React-based web application that provides a comprehensive and interactive user interface. The application is structured into several sections, each serving a unique purpose. Each section is carefully styled using Tailwind CSS, a utility-first CSS framework that allows for highly customizable designs. The application is responsive, ensuring a great user experience on both desktop and mobile devices.
 
 ## Website Link
 
@@ -16,8 +16,8 @@ You can access the live website here 👉 [Nike](https://ranjan-nike.netlify.app
 
 ### Mobile View
 
-![Mobile Screenshot without](image/mobile_ss1.png)
-![Mobile Screenshot with menu](image/mobile_ss2.png)
+![Mobile Screenshot without](image/mobile_ss1.jpg)
+![Mobile Screenshot with menu](image/mobile_ss2.jpg)
 
 ## Tech Stack
 
