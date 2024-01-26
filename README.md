@@ -6,7 +6,7 @@ This project is a React-based web application that provides a comprehensive and 
 
 ## Website Link
 
-You can access the live website here 👉 [Nike](https://ranjan-gpt3.netlify.app/)
+You can access the live website here 👉 [Nike](https://ranjan-nike.netlify.app/)
 
 ## Screenshots
 
