@@ -26,7 +26,7 @@ You can access the live website here 👉 [Nike](https://ranjan-nike.netlify.app
 
 ## How to quickly run this on your device
 
-Follow these steps to set up the project locally on your machine.
+You can follow these steps to set up the project locally on your machine.
 
 **Prerequisites**
 
@@ -66,12 +66,12 @@ I appreciate and welcome contributions to improve this website. If you would lik
 2. Create a new branch: `git checkout -b feature/your-feature-name`.
 3. Make your changes and commit them: `git commit -m "Add your message here"`.
 4. Push the changes to your fork: `git push origin feature/your-feature-name`.
-5. Create a pull request to the `main` branch of this repository.
+5. Create a pull request to this repository's `main` branch.
 
 I will review your pull request, and if everything looks good, I will merge it into the main branch. Thank you for helping make this website even better!
 
 ## Support
 
-If you encounter any issues with the website or have any questions, please feel free to reach out to me at my linkedin - [https://www.linkedin.com/in/shubhankar-ranjan/].
+If you encounter any issues with the website or have any questions, please feel free to reach out to me at my LinkedIn 👉 [Shubhankar Ranjan](https://www.linkedin.com/in/shubhankar-ranjan/).
 
 I value your feedback and will do my best to assist you with any concerns or queries you may have.
